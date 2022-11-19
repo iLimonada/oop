@@ -1,2 +1,2 @@
-# oop-4sem
-Object-Oriented Programming - ADS - 4SEM
+# Programação Orientada à Objetos
+Tarefas realizadas em aula no 4º Semestre de ADS
